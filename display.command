@@ -1,0 +1,1 @@
+gthumb mag_map.png
